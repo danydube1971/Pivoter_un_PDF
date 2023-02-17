@@ -1,5 +1,4 @@
 # Pivoter_un_PDF
-Permet de pivoter un fichier PDF à droite ou à gauche
 
 Ce script utilise le module PyPDF2 pour faire pivoter un fichier PDF dans la direction spécifiée par l'utilisateur. 
 Voici ce que fait chaque étape du script :
