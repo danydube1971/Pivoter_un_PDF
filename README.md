@@ -28,6 +28,6 @@ et sauvegardé dans le fichier de sortie spécifié.
 
 Placer le script dans le même dossier que le PDF à pivoter.
 
-Ouvrir un terminal et taper la commande: **python3 "Pivoter_un_PDF.py"**
+Ouvrir un terminal et taper la commande: **python3 "Pivoter un PDF.py"**
 
 
