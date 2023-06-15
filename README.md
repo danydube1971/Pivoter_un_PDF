@@ -22,3 +22,12 @@ ou rotateCounterClockwise() de la classe PageObject de PyPDF2.
 
 Ainsi, à la fin de l'exécution du script, le fichier PDF d'entrée aura été pivoté dans la direction spécifiée par l'utilisateur 
 et sauvegardé dans le fichier de sortie spécifié.
+
+--------------
+**Comment utiliser le script**
+
+Placer le script dans le même dossier que le PDF à pivoter.
+
+Ouvrir un terminal et taper la commande: **python3 "Pivoter_un_PDF.py"**
+
+
